@@ -20,8 +20,9 @@
     width: 80px;
     height: 80px;
     border-radius: 50px;
-    background-color: grey;
     margin: 0px;
+
+
 }
 
 .dirt{
@@ -32,3 +33,17 @@
     background-color: rgb(205,133,63);
     border: 10px solid rgb(139, 69, 19);
 }
+
+#scorebox {
+    text-align: center;
+    margin: auto;
+    border: 2px solid grey;
+    background-color: lightgrey;
+
+}
+
+#score {
+    text-align: center;
+    color: black;
+}
+
